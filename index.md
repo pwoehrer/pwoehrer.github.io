@@ -2,7 +2,7 @@
 
 ### Rechnen in LibreOfficeWriter
 
-Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem man den zu berechnenden Ausdruck (etwa "1234*0,2") markiert und dann Strg-+ drückt. Das Ergebnis der Berechnung steht in der Folge in der Zwischenablage zur Verfügung und kann mit Strg-v an beliebiger Stelle in den Text eingefügt werden.
+Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem man den zu berechnenden Ausdruck (etwa "1234*0,2") markiert und dann <kbd>Strg</kbd>+<kbd>+</kbd> drückt. Das Ergebnis der Berechnung steht in der Folge in der Zwischenablage zur Verfügung und kann mit <kbd>Strg</kbd> + <kbd>v</kbd> an beliebiger Stelle in den Text eingefügt werden.
 
 *Achtung*: Damit die Berechnung funktioniert, dürfen die Zahlen seit LibreOffice 6.0 kein Tausender-Trennzeichen enthalten!
 
@@ -14,7 +14,7 @@ Wer mit DragonDictate arbeitet und sein Headset nicht zwischen Arbeitsplatz und 
 
 - Diktiergerät mit einem ausreichend langem USB-Kabel mit dem Rechner verbinden und einschalten. Den SpeechExec-Dialog zum Überspielen schließen.
 - Darauf achten, dass der Vor- und Rückspultaste in Neutral-Stellung ist.
-- DragonDictate starten (idealerweise mit <kbd>Win</kbd> - <kbd>Drag</kbd> - <kbd>Enter</kbd>).
+- DragonDictate starten (idealerweise mit <kbd>Win</kbd> - "Drag" - <kbd>Enter</kbd>).
 - Der Dialog fragt nach dem zu verwendenden Mikrofon, Hier das Philips Pocket Memo auswählen.
 - Einrichtung abschließen.
 - Nun kann wie üblich diktiert werden, wobei die Aufnahmetaste am Diktiergerät das Mikrofon ein- und ausschaltet.
