@@ -2,7 +2,9 @@
 kbd {
     background-color: white;
     border: 1px solid black;
-    border-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 4px;
     font-family: Courier New, courier, monospace;
 }
 </style>
@@ -13,7 +15,7 @@ kbd {
 
 Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem man
 den zu berechnenden Ausdruck (etwa "1234 * 0,2") markiert und dann
-<kbd>Strg</kbd> + <kbd> + </kbd> drückt. Das Ergebnis der Berechnung steht in
+<kbd>Strg</kbd> + <kbd>+</kbd> drückt. Das Ergebnis der Berechnung steht in
 der Folge in der Zwischenablage zur Verfügung und kann mit <kbd>Strg</kbd> +
 <kbd>v</kbd> an beliebiger Stelle in den Text eingefügt werden.
 
