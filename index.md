@@ -12,7 +12,7 @@ kbd {
 
 ## Bildschirmeinrichtung
 
-Die zur Zeit beliebten Bildschirme eigenen sich für Textverarbeitungsanwendungen, in denen hauptsächlich mit Hochformat gearbeitet wird, nur bedingt. Sie sind sehr breit, dafür fehlt aber Höhe.
+Die zur Zeit beliebten Bildschirme im Format 16:9 eignen sich für Textverarbeitungsanwendungen, in denen hauptsächlich mit Hochformat gearbeitet wird, nur bedingt. Sie sind sehr breit, dafür fehlt es aber an Höhe.
 
 Dadurch, dass im Normalfall auch die Fensterleiste entlang der unteren Bildschirmkante angeordnet ist, bietet es sich an, die Fensterleiste an den rechten oder linken Rand des Bildschirmes zu verschieben.
 
@@ -43,7 +43,7 @@ Bildschirm) getestet, was verhältnismäßig gut funktioniert.
 - Diktiergerät mit einem ausreichend langem USB-Kabel mit dem Rechner verbinden
   und einschalten. Den SpeechExec-Dialog zum Überspielen schließen.
 - Darauf achten, dass der Vor- und Rückspultaste in Neutral-Stellung ist.
-- Dragon Naturally Speaking starten (idealerweise mit <kbd>Win</kbd> - "Drag" -
+- Dragon Naturally Speaking starten (idealerweise mit <kbd>&#8862; Win</kbd> - "Drag" -
   <kbd>Enter</kbd>).
 - Der Dialog fragt nach dem zu verwendenden Mikrofon, Hier das Philips Pocket
   Memo auswählen.
