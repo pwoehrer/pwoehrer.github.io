@@ -35,7 +35,7 @@ der Folge in der Zwischenablage zur Verfügung und kann mit <kbd>Strg</kbd> +
 
 ### Dragon Naturally Speaking ohne Headset
 
-<img src="imgs/Philips Digital Pocket Memo.png" title="Philips Digital Pocket Memo" alt="Philips Digital Pocket Memo">
+<img src="imgs/Philips Digital Pocket Memo.png" title="Philips Digital Pocket Memo" alt="Philips Digital Pocket Memo" style="float: right">
 Wer mit Dragon Naturally Speaking arbeitet und sein Headset nicht zwischen
 Arbeitsplatz und Homeoffice hin- und hertragen will, kann auch auf das
 Diktiergerät zurückgreifen. Ich habe es nur mit der neuen Variante 4 (bunter
