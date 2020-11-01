@@ -10,11 +10,11 @@ Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem ma
 
 ### Dragon Dictate ohne Headset
 
-Wer mit Dragon Dictate arbeitet und sein Headset nicht zwischen Arbeitsplatz und Homeoffice hin- und hertragen will, kann auch auf das Diktiergerät zurücjgreifen. Ich habe es nur mit der neuen Variante (butner Bildschirm getestet, es funktioniert aber sehr gut.
+Wer mit DragonDictate arbeitet und sein Headset nicht zwischen Arbeitsplatz und Homeoffice hin- und hertragen will, kann auch auf das Diktiergerät zurückgreifen. Ich habe es nur mit der neuen Variante (bunter Bildschirm) getestet, was verhältnismäßig gut funktioniert.
 
 - Diktiergerät mit einem ausreichend langem USB-Kabel mit dem Rechner verbinden und einschalten. Den SpeechExec-Dialog zum Überspielen schließen.
 - Darauf achten, dass der Vor- und Rückspultaste in Neutral-Stellung ist.
-- DragonDictate starten (idealerweise mit Windows-Taste - "Drag" - Enter)
+- DragonDictate starten (idealerweise mit <kbd>Win</kbd> - <kbd>Drag</kbd> - <kbd>Enter</kbd>).
 - Der Dialog fragt nach dem zu verwendenden Mikrofon, Hier das Philips Pocket Memo auswählen.
 - Einrichtung abschließen.
 - Nun kann wie üblich diktiert werden, wobei die Aufnahmetaste am Diktiergerät das Mikrofon ein- und ausschaltet.
@@ -23,4 +23,4 @@ Wer mit Dragon Dictate arbeitet und sein Headset nicht zwischen Arbeitsplatz und
 
 #### Bonus-Tipp
 
-Es klappt zur Not auch nur mit dem Laptop, wenn er aufgeklapp ist und man relativ nahe (50 bis 75 cm) davor sitzt. In diesem Fall die eingebauten Mikrofone beim Öffnen des Dragon Dictate auswählen.
+Es klappt zur Not auch nur mit dem Laptop, wenn er aufgeklappt ist und man relativ nahe (50 bis 75 cm) davor sitzt. In diesem Fall die eingebauten Mikrofone beim Öffnen des Dragon Dictate auswählen.
