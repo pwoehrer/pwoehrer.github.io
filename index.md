@@ -6,8 +6,17 @@ kbd {
     padding-right: 3px;
     border-radius: 4px;
     font-family: Courier New, courier, monospace;
+    box-shadow: 1px 1px;
 }
 </style>
+
+## Bildschirmeinrichtung
+
+Die zur Zeit beliebten Bildschirme eigenen sich für Textverarbeitungsanwendungen, in denen hauptsächlich mit Hochformat gearbeitet wird, nur bedingt. Sie sind sehr breit, dafür fehlt aber Höhe.
+
+Dadurch, dass im Normalfall auch die Fensterleiste entlang der unteren Bildschirmkante angeordnet ist, bietet es sich an, die Fensterleiste an den rechten oder linken Rand des Bildschirmes zu verschieben.
+
+Ähnlich kann auch mit einigen der gestapelt vorhandenen Icon- und Menüeleisten in LibreOffice verfahren werden. So ist es möglich, volle A4-Seiten zumindest quer zu lesen, ohne Scrollen zu müssen.
 
 ## Textverarbeitung & Co.
 
@@ -50,3 +59,5 @@ Bildschirm) getestet, was verhältnismäßig gut funktioniert.
 Es klappt zur Not auch nur mit dem Laptop, wenn er aufgeklappt ist und man
 relativ nahe (50 bis 75 cm) davor sitzt. In diesem Fall die eingebauten
 Mikrofone beim Öffnen des Dragon Naturally Speaking auswählen.
+
+Das Diktiergerät verfügt auch über einen Modus, der automatisch aktiv wird, sobald es falch am Tisch liegt. So nimmt es Stimmen aus dem ganzen Raum auf und kann als Mikrofon für Zoom-Verhandlungen dienen.
