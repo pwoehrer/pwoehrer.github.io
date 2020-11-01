@@ -1,7 +1,26 @@
-## Peters Praktische PC-Tipps
+## Textverarbeitung & Co.
 
 ### Rechnen in LibreOfficeWriter
 
 Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem man den zu berechnenden Ausdruck (etwa "1234*0,2") markiert und dann Strg-+ drückt. Das Ergebnis der Berechnung steht in der Folge in der Zwischenablage zur Verfügung und kann mit Strg-v an beliebiger Stelle in den Text eingefügt werden.
 
 *Achtung*: Damit die Berechnung funktioniert, dürfen die Zahlen seit LibreOffice 6.0 kein Tausender-Trennzeichen enthalten!
+
+## Hardware
+
+### Dragon Dictate ohne Headset
+
+Wer mit Dragon Dictate arbeitet und sein Headset nicht zwischen Arbeitsplatz und Homeoffice hin- und hertragen will, kann auch auf das Diktiergerät zurücjgreifen. Ich habe es nur mit der neuen Variante (butner Bildschirm getestet, es funktioniert aber sehr gut.
+
+- Diktiergerät mit einem ausreichend langem USB-Kabel mit dem Rechner verbinden und einschalten. Den SpeechExec-Dialog zum Überspielen schließen.
+- Darauf achten, dass der Vor- und Rückspultaste in Neutral-Stellung ist.
+- DragonDictate starten (idealerweise mit Windows-Taste - "Drag" - Enter)
+- Der Dialog fragt nach dem zu verwendenden Mikrofon, Hier das Philips Pocket Memo auswählen.
+- Einrichtung abschließen.
+- Nun kann wie üblich diktiert werden, wobei die Aufnahmetaste am Diktiergerät das Mikrofon ein- und ausschaltet.
+- Den Schieber für Vor- und Zurückspulen *nicht* verwenden!
+- Am besten funktioniert es, wenn man das Diktiergerät etwa 5 cm vom Mund entfernt hält und man in einer ruhigen Umgebung dikiert.
+
+#### Bonus-Tipp
+
+Es klappt zur Not auch nur mit dem Laptop, wenn er aufgeklapp ist und man relativ nahe (50 bis 75 cm) davor sitzt. In diesem Fall die eingebauten Mikrofone beim Öffnen des Dragon Dictate auswählen.
