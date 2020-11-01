@@ -1,3 +1,12 @@
+<style type="text/css">
+kbd {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-family: Courier New, courier, monospace;
+}
+</style>
+
 ## Textverarbeitung & Co.
 
 ### Rechnen in LibreOfficeWriter
