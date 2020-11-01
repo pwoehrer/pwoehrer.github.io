@@ -2,8 +2,8 @@
 kbd {
     background-color: white;
     border: 1px solid black;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
     border-radius: 4px;
     font-family: Courier New, courier, monospace;
 }
