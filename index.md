@@ -28,7 +28,7 @@ lesen, ohne Scrollen zu müssen.
 
 ### Copy & Paste
 
-Im EIP wird oft zwischen einzelnen Fenstern Text kopiert. Während das unter anderen Betriebsystemen besser gelöst ist, bietet Windows 10 zumindest eine durchaus sinnvolle Funktion an: Die Zwischenablage kann nun nicht nur eine sondern bis zu 25 Textschnippsel aufnehmen. Eingefügt wird in diesem Fall nicht mit <kbd>Strg + v</kbd> sondern <kbd>Windows + v</kbd>.
+Im EIP wird oft zwischen einzelnen Fenstern Text kopiert. Während das unter anderen Betriebsystemen besser gelöst ist, bietet Windows 10 zumindest eine durchaus sinnvolle Funktion an: Die Zwischenablage kann nun nicht nur eine sondern bis zu 25 Textschnippsel aufnehmen. Eingefügt wird in diesem Fall nicht mit <kbd>Strg + v</kbd> sondern <kbd>&#8862; Win + v</kbd>.
 
 Diese Funktion muss aber erst aktiviert werden. Das macht man in den Systemeinstellungen unter "System" und dem Menüpunkt "Zwischenablage".
 
