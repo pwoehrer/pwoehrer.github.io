@@ -46,7 +46,7 @@ Auf zwei Bildschirmen verschwindet manchmal die Maus und man sucht hektisch heru
 
 Man kann einfach innerhalb von LibreOfficeWriter Rechnungen ausführen, indem man
 den zu berechnenden Ausdruck (etwa "1234 * 0,2") markiert und dann
-<kbd>Strg + </kbd> drückt. Das Ergebnis der Berechnung steht in
+<kbd>Strg + +</kbd> drückt. Das Ergebnis der Berechnung steht in
 der Folge in der Zwischenablage zur Verfügung und kann mit <kbd>Strg + v</kbd> an beliebiger Stelle in den Text eingefügt werden.
 
 *Achtung*: Damit die Berechnung funktioniert, dürfen die Zahlen seit LibreOffice
